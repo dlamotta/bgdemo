@@ -92,7 +92,7 @@
         <div class="col-md-6 col-md-offset-3">
           <h2>No Pickle</h2>
           <p>
-            <img src="nopickle.jpg">
+            <img src="nopickle.jpg" width="400">
           </p>
         </div>
       </div>
