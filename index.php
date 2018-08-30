@@ -55,6 +55,7 @@
       </div>
     </nav>
     <div class="container-fluid">
+      <!--
       <div class="row">
         <div class="col-md-12">
           <ol class="breadcrumb">
@@ -67,6 +68,7 @@
           </center>
         </div>
       </div>
+      -->
       <div class="row">
         <div class="col-md-6 col-md-offset-3">
           <h2>Application Information</h2>
