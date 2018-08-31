@@ -92,9 +92,9 @@
           </table>
         </div>
         <div class="col-md-6 col-md-offset-3">
-          <h2>WE LOVE PICKLES!!!</h2>
+          <h2>No pickle :'(</h2>
           <p>
-            <img src="pickle.jpg" width="400">
+            <img src="nopickle.jpg" width="400">
           </p>
         </div>
       </div>
